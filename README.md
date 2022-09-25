@@ -1,6 +1,7 @@
-# Project Name : NFT Universe
+# Project Name -: 
+NFT Universe
 
-## Description 
+## Description -:
 
 An NFT database that includes entities for different blockchains such as Ethereum, Solana, BNB, Algorand, and so on, NFT projects on these blockchains, NFT segments such as art, collectible, game, metaverse, and utility.
 
