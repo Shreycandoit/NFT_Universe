@@ -8,7 +8,7 @@ This project would serve as a one-stop shop for a range of users regardless of t
 
 ## Team Size
 
-We are a group of three, namely :-
+We are a group of three, namely -:
 
 1.) Shreyansh Goushal
 2.) Sri Tejaswi Vadapalli
